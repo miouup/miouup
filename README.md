@@ -1,6 +1,6 @@
 ### 💻 &nbsp;About Me 
 
-- 🎉 &nbsp; June 02, 2005 (17 y/o)
+- 🎉 &nbsp; June 02, 2005 (18 y/o)
 - 🏠 &nbsp; Living in Germany 
 
 <br><br>
