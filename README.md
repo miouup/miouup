@@ -1,111 +1,80 @@
-### 💻 &nbsp;About Me 
 
-- 🎉 &nbsp; June 02, 2005 (18 y/o)
-- 🏠 &nbsp; Living in Germany 
+<h2 align="center">
+  Hey, my name is Mio!
+  <img src="https://cdn.discordapp.com/attachments/1109604665777197066/1114644368352084008/hello.gif" width="28">
+</h2>
 
-<br><br>
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/984762276269662248.png">
-</p>
-<br>
-
-### 💻 My Stats
-<br>
-  
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-  
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=miouup&theme=nightowl&show_icons=true&count_private=true&hide_border=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=miouup&theme=nightowl&hide_border=true" />
+ <p align="center">
+        <a href="https://github.com/miouup"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=A77CF7&center=true&vCenter=true&width=380&height=45&lines=Currently+learning+Front-End;Always+learning+new+things"></a>
+    </p>
 
 
-  
-</td>
 
-<td width="50%" align="center">
+<a href="https://komarev.com/ghpvc/?username=miouup">
+  <img align="right" src="https://komarev.com/ghpvc/?username=miouup&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=miouup&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 
-<br>
+[![wakatime](https://wakatime.com/badge/user/8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0.svg)](https://wakatime.com/@8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-                                                                                    
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://miouup.github.io/">miouup</a></b>
+        </samp>
+</h3>
 
-<br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=miouup&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
+<p align="center"> 
+  <samp>
+    「 I am a front-end development learner from <b>Germany</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-<br>
-
- <hr>
-
-<br>
-<p align="centre">
+<!-- About Section -->
+ # About me
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miouup&theme=react-dark&hide_border=true&area=true)  </p>
-
-
-
-
-
-
-
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>🌐 My Socials</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.youtube.com/channel/UC99Q6SnpI9JutB6Cmb1-NvA" target="_blank">
-  <img align="center" alt="YT" width="40px" src="https://img.icons8.com/color/100/000000/youtube-play.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/miouuup/" target="_blank">
-  <img align="center" alt="Instagram" width="40px" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/miouuup" target="_blank">
-  <img align="center" alt="Twitter" width="40px" src="https://img.icons8.com/color/96/000000/twitter.png" />
-</a> &nbsp;&nbsp;
-<a href="https://www.twitch.tv/miouup" >
-  <img align="center" alt="Twitch" width="40px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" />
-</a> &nbsp;&nbsp;
-<a href="https://discord.gg/QFeD546tTE">
-    <img align="center" alt="Discord" width="40px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
-</a> &nbsp;&nbsp;
 <p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/miouup/count.svg" />  
+ 🎂 &emsp; Born on 02/06/2005, currently 18 years old <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: mio@codingoase.de<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/miouup/miouup/issues)
+
 </p>
-<br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+
+<br/>
+<br/>
+<br/>
+
+## Top Open Source -
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miouup&repo=miouup.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miouup/miouup.github.io)
+
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/miouup">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miouup&theme=radical&border=7F3FBF&background=0D1117" alt="Mio's GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/miouup">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miouup&theme=radical" alt="Mio's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/miouup"><img alt="miouup's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=miouup&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/miouup"><img alt="miouup's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miouup&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
