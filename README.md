@@ -41,7 +41,7 @@
   
  🎂 &emsp; Born on 02/06/2005, currently 18 years old <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: mio@codingoase.de<br/><br/>
+ 📧 &emsp; Reach me anytime: contact@miouup.de<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/miouup/miouup/issues)
 
 </p>
