@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://miouup.github.io/">miouup</a></b>
+                <b><a target="_blank" href="https://miouup.de/">miouup</a></b>
         </samp>
 </h3>
 
