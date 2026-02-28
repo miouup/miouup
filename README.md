@@ -14,7 +14,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=miouup&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
 [![wakatime](https://wakatime.com/badge/user/8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0.svg)](https://wakatime.com/@8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0)
 
 <!-- Intro  -->
@@ -32,6 +31,8 @@
     <br>
   </samp>
 </p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/984762276269662248?theme=dark&hideDiscrim=true&showDisplayName=true)](https://discord.com/users/984762276269662248)
 
 <!-- About Section -->
  # About me
