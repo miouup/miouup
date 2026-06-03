@@ -1,81 +1,90 @@
-
-<h2 align="center">
-  Hey, my name is Mio!
-  <img src="https://cdn.discordapp.com/attachments/1109604665777197066/1114644368352084008/hello.gif" width="28">
-</h2>
-
- <p align="center">
-        <a href="https://github.com/miouup"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=A77CF7&center=true&vCenter=true&width=380&height=45&lines=Currently+learning+Front-End;Always+learning+new+things"></a>
-    </p>
-
-
-
-<a href="https://komarev.com/ghpvc/?username=miouup">
-  <img align="right" src="https://komarev.com/ghpvc/?username=miouup&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0.svg)](https://wakatime.com/@8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://miouup.de/">miouup</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    「 I am a front-end development learner from <b>Germany</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/984762276269662248?theme=dark&hideDiscrim=true&showDisplayName=true)](https://discord.com/users/984762276269662248)
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- 🎂 &emsp; Born on 02/06/2005, currently 20 years old <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: contact@miouup.de<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/miouup/miouup/issues)
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Top Open Source -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miouup&repo=miouup.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miouup/miouup.github.io)
-
-<p align="left">
-  <a href="https://github.com/miouup?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
 <p align="center">
-  <a href="https://github.com/miouup">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miouup&theme=radical&border=7F3FBF&background=0D1117" alt="Mio's GitHub Streak"/>
-  </a>
+  <img src="./header.svg" alt="Mio's Profile Banner" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/miouup">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miouup&theme=radical" alt="Mio's GitHub Contribution"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&height=40&lines=Vibe+coding+is+the+future+of+smart+work;Why+write+code+when+you+can+vibe+it%3F;Solving+bugs+by+simply+changing+the+vibe" alt="Typing SVG" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/miouup"><img alt="miouup's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=miouup&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/miouup"><img alt="miouup's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miouup&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miouup&label=Views&color=7F3FBF&style=flat-square" alt="Views" />
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0">
+    <img src="https://wakatime.com/badge/user/8faf78a6-5bf2-4fbc-8cfb-3e4ca34fa1d0.svg" alt="wakatime" />
+  </a>
+</p>
+
+---
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>Hey there! I'm a vibe coder from Germany who likes to take things slow but build them carefully. I'm currently learning front-end development and love crafting clean, visually pleasing web projects.</p>
+      <ul>
+        <li>🎂 <b>Born:</b> June 2nd, 2005 (21 years old)</li>
+        <li>💻 <b>Focus:</b> Clean code, modern UI/UX design &amp; learning new frameworks</li>
+        <li>📧 <b>Contact:</b> <a href="mailto:contact@miouup.de">contact@miouup.de</a></li>
+        <li>💬 <b>Q&amp;A:</b> Ask me anything <a href="https://github.com/miouup/miouup/issues">here</a></li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>🎮 Discord Status</h3>
+      <a href="https://discord.com/users/984762276269662248">
+        <img src="https://lanyard.cnrad.dev/api/984762276269662248?theme=dark&bg=0d1117&borderRadius=8px" alt="Discord Presence" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Tech Stack &amp; Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,discord,github,idea,js,html,css,vue,nuxtjs&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Statistics</h3>
+<p align="center">
+  <table border="0" cellpadding="5" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/miouup">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=miouup&show_icons=true&count_private=true&bg_color=0d1117&border_color=7f3fbf&title_color=a77cf7&icon_color=00e5ff&text_color=c9d1d9" alt="Mio's GitHub Stats" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/miouup">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miouup&langs_count=8&layout=compact&bg_color=0d1117&border_color=7f3fbf&title_color=a77cf7&icon_color=00e5ff&text_color=c9d1d9" alt="Mio's Top Languages" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <a href="https://github.com/miouup">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=miouup&background=0d1117&border=7f3fbf&fire=ff2a85&ring=a77cf7&currstat=00e5ff&currstatLabel=00e5ff&sideNums=a77cf7&sideLabels=c9d1d9&dates=8b949e" alt="Mio's GitHub Streak" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <a href="https://github.com/miouup/miouup.github.io">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=miouup&repo=miouup.github.io&bg_color=0d1117&border_color=7f3fbf&title_color=a77cf7&icon_color=00e5ff&text_color=c9d1d9" alt="Pinned Repo" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
   <br/>
-</a>
+  <a href="https://github.com/miouup?tab=repositories" target="_blank">
+    <img alt="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
